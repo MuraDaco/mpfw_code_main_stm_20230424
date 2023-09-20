@@ -1,0 +1,4 @@
+/.metadata/*
+!/.metadata/version.ini
+project/Debug/
+project/Release/
